@@ -1,0 +1,1 @@
+EXTENSIONS = ("docx", "doc", "pdf")

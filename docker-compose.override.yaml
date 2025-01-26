@@ -1,0 +1,30 @@
+version: '3'
+
+services:
+
+  rabbitmq:
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+
+  avia_admin:
+    ports:
+      - "8000:8000"
+
+  site_parser:
+    ports:
+      - "5678:5678"
+      - "15678:15678"
+
+  flower:
+    ports:
+      - "5555:5555"
+
+  redis:
+    ports:
+      - "6379:6379"
+
+  contract_database:
+    ports:
+      - "5433:5432"
+

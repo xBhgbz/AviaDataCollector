@@ -1,0 +1,4 @@
+from .avia_data_serializer import AviaDataSerializer
+from .company_serializer import CompanySerializer
+from .contract_serializer import ContractSerializer
+from .locality_serializer import LocalitySerializer
