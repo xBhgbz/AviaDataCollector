@@ -1,5 +1,20 @@
 # Сервис по сбору и хранению исторических данных авиаперевозок
 
+### Сделано совместно с [toth3m00n](https://github.com/toth3m00n). ###
+
+Проект был сделан в закрытом репозитории университета. Перезалит сюда после завершения учебы.
+
+xBhgbz:
+- разработка архитектуры,
+- сервис нейро-парсера,
+- сервис контрактов (40%).
+
+toth3m00n:
+- разработка архитектуры,
+- сервис веб-парсинга,
+- сервис контрактов (60%),
+- сервис авиаперевозок.
+
 ### Стэк ###
 <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" title="Python" alt="Python"/>&nbsp;
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" title="Django" alt="Django"/>&nbsp;
